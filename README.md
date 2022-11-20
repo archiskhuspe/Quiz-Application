@@ -2,4 +2,4 @@
 
 💫 Files
 
-Java Code: Project zip file
+Java Code: .zip Project file
